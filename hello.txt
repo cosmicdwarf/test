@@ -1,1 +1,2 @@
 hey my name is ghritak
+and i was trying to just psuh my local repo to github
